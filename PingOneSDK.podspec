@@ -5,8 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                     The PingOne SDK provides a framework for integrating authentication into your iOS apps.
                    DESC
-  s.homepage     = 'https://github.com/your-repo/PingOneSDK'
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.homepage     = 'https://github.com/alifja/pingone-mobile-sdk-ios'
   s.author       = { 'Ping Identity' => 'support@pingidentity.com' }
   s.platform     = :ios, '10.0'
   
